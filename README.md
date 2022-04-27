@@ -2,8 +2,21 @@
 
 ### How To Setup
 
-git clone https://github.com/sajib1066/event-calendar.git
+git clone https://github.com/thamer-ctrl/Technical-Test.git
 
-cd event-calendar
+cd Technical-Test/technical-test
 
-python3 -m venv venv
+source bin/activate
+
+cd src/
+
+python3 manage.py runserver
+
+connect on http://127.0.0.1:8000/admin/
+
+#### credentials:
+            1. admin: username: storm
+                      password: 001
+                      
+            2. user:  username: thamer
+                      password: Hacker0.0
