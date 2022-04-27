@@ -25,6 +25,6 @@ connect on http://127.0.0.1:8000/admin/
 
             1. change the cookies and headers of github login
             
-              https://www.youtube.com/watch?v=cVnYod9Fhko
+              (https://www.youtube.com/watch?v=cVnYod9Fhko)
               
             2. run the script
