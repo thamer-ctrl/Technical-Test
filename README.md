@@ -8,6 +8,8 @@ cd Technical-Test/technical-test
 
 source bin/activate
 
+pip install -r requirements.txt
+
 cd src/
 
 python3 manage.py runserver
