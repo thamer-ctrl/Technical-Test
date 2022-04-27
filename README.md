@@ -1,3 +1,3 @@
 # Technical-Test
 
-##### How To Setup
+### How To Setup
