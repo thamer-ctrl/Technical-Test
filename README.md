@@ -8,6 +8,8 @@ cd Technical-Test/technical-test
 
 source bin/activate
 
+sudo apt install python3-django
+
 pip install -r requirements.txt
 
 cd src/
