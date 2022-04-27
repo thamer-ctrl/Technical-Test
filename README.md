@@ -1,6 +1,6 @@
 # 1. Technical-Test
 
-### How To Setup
+### How To Setup The Web Site
 
 git clone https://github.com/thamer-ctrl/Technical-Test.git
 
@@ -21,6 +21,10 @@ connect on http://127.0.0.1:8000/admin/
             2. user:  username: thamer
                       password: Hacker0.0
 
-# 2. Script Of Scraping
+### 2. How To Run The Script Of Scraping
 
-run on pycharm
+            1. change the cookies and headers of github login
+            
+              https://www.youtube.com/watch?v=cVnYod9Fhko
+              
+            2. run the script
