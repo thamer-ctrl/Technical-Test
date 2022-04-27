@@ -1,4 +1,4 @@
-# Technical-Test
+# 1. Technical-Test
 
 ### How To Setup
 
@@ -20,3 +20,7 @@ connect on http://127.0.0.1:8000/admin/
                       
             2. user:  username: thamer
                       password: Hacker0.0
+
+# 2. Script Of Scraping
+
+run on pycharm
